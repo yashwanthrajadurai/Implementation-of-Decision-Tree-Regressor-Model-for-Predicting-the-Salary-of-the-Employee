@@ -61,7 +61,8 @@ dt.predict([[5,6]])
 
 ## Data.Head():
 
-![Screenshot (81)](https://github.com/yashwanthrajadurai/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128462316/89344aee-743e-4968-8273-1472e66623ea)
+![Screenshot (81)](https://github.com/yashwanthrajadurai/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/128462316/1ae86723-fcaf-48e8-93ca-d420d85d7417)
+
 
 
 
